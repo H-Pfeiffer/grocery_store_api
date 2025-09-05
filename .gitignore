@@ -1,9 +1,10 @@
 # Node modules 
 /node_modules
 
-# log Files
+# log Files and data
 logs/
 *.log
+data.json
 
 # OS / Editor
 .DS_Store
