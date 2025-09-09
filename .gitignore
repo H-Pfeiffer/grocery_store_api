@@ -5,6 +5,7 @@
 logs/
 *.log
 data.json
+/coverage
 
 # OS / Editor
 .DS_Store
